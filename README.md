@@ -1,6 +1,6 @@
 # BeautySalon (Salão de Beleza)
 
-Projeto front end desenvolvimento do curos Origin realizado pela Rocketseat, trata-se de um perfil didital para caráter de apresentação de um estabelecimento focado tratamentos estéticos naturais, apresentando de resumida dados sobres o estabelecimento, os tipos de serviços apresentados, dados para contatos e feedback dos clientes.
+Projeto front end desenvolvimento do curso Origin realizado pela Rocketseat, trata-se de um perfil didital para caráter de apresentação de um estabelecimento focado tratamentos estéticos naturais, apresentando de resumida dados sobres o estabelecimento, os tipos de serviços apresentados, dados para contatos e feedback dos clientes.
 
 ![exemplo](./assets/GitHub/apresentacao.gif)
 
